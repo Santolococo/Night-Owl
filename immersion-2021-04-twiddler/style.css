@@ -1,0 +1,28 @@
+body {
+    background: rgb(0, 0, 0);
+    color: rgb(170, 161, 26);
+    padding: 10px;
+    font-family: arial;
+  }
+  
+  header1 {
+    font-size: 2em;
+    font-weight: bold;
+    color:rgb(0, 0, 0);
+    position: relative;
+    right: 500px;
+  }
+
+  main {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 500px;
+  }
+
+  sidebar {
+    margin-top: 100px;
+    margin-bottom: 800px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
